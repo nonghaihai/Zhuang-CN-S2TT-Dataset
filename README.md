@@ -26,7 +26,6 @@ The sample dataset includes:
 - **Audio files** (`audio/*.wav`): Speech recordings of Zhuang language.
 - **Transcriptions** (`zhuang_demo.tsv`): Tab-separated files containing metadata and text transcriptions.
 
-
 **字段说明 / TSV Columns:**
 | 字段名 (Field) | 含义 (Description) |
 |----------------|--------------------|
@@ -38,7 +37,6 @@ The sample dataset includes:
 | `age` | 说话人年龄 (Age of the speaker) |
 | `gender` | 说话人性别 (Gender) |
 | `accent` | 方言/口音信息 (Accent information) |
-
 
 **示例 (Example):**
 | speaker_id | audio path | sentence | up_votes | down_votes | age | gender | accent |
@@ -91,10 +89,11 @@ Future updates will include:
 
 ## 7.许可与授权 / License and Citation
 ## License
-本数据集采用 CC BY 4.0 许可协议（https://creativecommons.org/licenses/by/4.0/）
+本数据集采用 CC BY 4.0 许可协议 (https://creativecommons.org/licenses/by/4.0/)
+
 使用者可自由分享与修改，但需注明来源。
 
-This dataset is released under the [CC BY 4.0 License] https://creativecommons.org/licenses/by/4.0/).  
+This dataset is released under the [CC BY 4.0 License] (https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt the material, provided appropriate credit is given.
 
 ## Citation
