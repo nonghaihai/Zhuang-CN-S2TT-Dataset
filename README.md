@@ -48,6 +48,7 @@ The sample dataset includes:
 ---
 
 ## 4.文件结构 / Directory Structure
+```text
 zhuang-speech-sample/
 ├── audio/
 │ ├── speaker01-c21-001.wav
@@ -66,15 +67,23 @@ Please refer to the fairseq documentation for preprocessing and training example
 
 ## 6.未来计划 / Future Work
 我们计划在未来版本中：
+
 （1）增加更多说话人样本（不同年龄与性别）；
+
 （2）扩充句子数量，覆盖更多日常语域与语音现象；
+
 （3）添加汉语和英文翻译字段；
+
 （4）发布完整的壮语语音数据集，并提供标准的数据集划分。
 
 Future updates will include:
+
 (1) More speakers across different demographics;
+
 (2) Expanded sentence coverage and linguistic diversity;
+
 (3) Additional translation and phonetic annotation fields;
+
 (4) Full-scale Zhuang speech corpus with S2TT-ready splits.
 
 ---
@@ -89,9 +98,11 @@ You are free to share and adapt the material, provided appropriate credit is giv
 
 ## Citation
 如果您使用了本数据集，请引用如下：
+
 Haina Nong．(2025)．Zhuang-CN S2TT Dataset Example．GitHub．https://github.com/nonghaihai/Zhuang-CN-S2TT-Dataset
 
 If you use this dataset, please cite as:
+
 > Haina Nong, (2025). *Zhuang-CN S2TT Dataset Example*. GitHub Repository: https://github.com/nonghaihai/Zhuang-CN-S2TT-Dataset
 
 ---
