@@ -14,6 +14,7 @@ It is intended for research in Zhuang-to-Chinese speech-to-text translation (S2T
 - **语言名称 (Language Name)：** 壮语（Zhuang）  
 - **语系 (Language Family)：** 壮侗语系-侗台语族-壮傣语支（Kra–Dai language family - Tai–Kadai branch - Zhuang–Tai subgroup）  
 - **方言类型 (Dialect)：** 壮语南部方言中的德靖土语，以广西靖西、德保、那坡话为主。
+
 The recordings in this dataset represent Dejing local variety of the Southern Zhuang dialect, mainly based on the Jingxi, Debao, and Napo varieties in Guangxi, China.
 
 ---
@@ -80,7 +81,8 @@ Future updates will include:
 
 ## 7.许可与授权 / License and Citation
 ## License
-本数据集采用 CC BY 4.0 许可协议（https://creativecommons.org/licenses/by/4.0/），使用者可自由分享与修改，但需注明来源。
+本数据集采用 CC BY 4.0 许可协议（https://creativecommons.org/licenses/by/4.0/）。
+使用者可自由分享与修改，但需注明来源。
 
 This dataset is released under the [CC BY 4.0 License] https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt the material, provided appropriate credit is given.
